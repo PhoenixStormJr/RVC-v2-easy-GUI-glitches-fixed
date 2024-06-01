@@ -3,7 +3,7 @@ RVC V2 glitches fixed.
 
 Mine here:
 
-(not finished): https://colab.research.google.com/github/PhoenixStormJr/RVC-v2-easyGUI-glitches-fixed/blob/main/easyGUI_fixed_glitches_1%F0%9F%93%B1_4_20_24.ipynb
+(not finished): https://colab.research.google.com/github/PhoenixStormJr/RVC-v2-easyGUI-glitches-fixed/blob/main/easyGUI_fixed_glitches_2%F0%9F%93%B1_4_20_24.ipynb
 
 
 
