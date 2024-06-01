@@ -1,5 +1,5 @@
 # RVC-v2-easyGUI-glitches-fixed
-RVC V2 glitches fixed. 
+RVC V2 glitches fixed. Date: 4/20/24
 
 Mine here:
 
