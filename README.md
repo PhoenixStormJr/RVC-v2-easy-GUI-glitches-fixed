@@ -3,7 +3,7 @@ RVC V2 glitches fixed. This is the exact same as Rejekts, but I fixed the glitch
 
 Mine here:
 
-https://colab.research.google.com/github/PhoenixStormJr/RVC-v2-easyGUI-glitches-fixed/blob/main/easyGUI_fixed_glitches_3%F0%9F%93%B1_4_20_24.ipynb
+https://colab.research.google.com/github/PhoenixStormJr/RVC-v2-easy-GUI-glitches-fixed/blob/main/easyGUI_fixed_glitches_4%F0%9F%93%B1_4_20_24.ipynb
 
 
 originals here:
