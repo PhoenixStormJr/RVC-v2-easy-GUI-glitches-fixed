@@ -10,7 +10,7 @@ https://colab.research.google.com/github/PhoenixStormJr/RVC-v2-easy-GUI-glitches
 
 originals here:
 
-RVC v2 Rejekts colab link: https://colab.research.google.com/drive/1r4IRL0UA7JEoZ0ZK8PKfMyTIBHKpyhcw
+(BROKEN) RVC v2 Rejekts colab link: https://colab.research.google.com/drive/1r4IRL0UA7JEoZ0ZK8PKfMyTIBHKpyhcw
 
 Github: https://github.com/RejektsAI
 
