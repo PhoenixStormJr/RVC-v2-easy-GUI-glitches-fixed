@@ -1,6 +1,6 @@
 # RVC-v2-easyGUI-glitches-fixed
 
-YIKES, the original was completely taken down! I don't know how to keep mine updated anymore.
+YIKES, the original was completely taken down! I don't know where a new one is! Good thing I made this or RVC would've been lost to history!
 
 RVC V2 glitches fixed. This is the exact same as Rejekts, but I fixed the glitches in his repository. It had many glitches that virtually made RVC-v2-easy-gui very broken and almost unusable. I'm not trying to infringe on copyright violations, just fix his glitches. Date of original: 4/20/24
 
@@ -16,5 +16,5 @@ Github: https://github.com/RejektsAI
 
 Huggingface: https://huggingface.co/Rejekts/project
 
-Just in case something else gets deleted...:
+Just in case something else gets deleted here is a backup...:
 
