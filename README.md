@@ -16,3 +16,5 @@ Github: https://github.com/RejektsAI
 
 Huggingface: https://huggingface.co/Rejekts/project
 
+Just in case something else gets deleted...:
+
