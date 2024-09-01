@@ -18,3 +18,4 @@ Huggingface: https://huggingface.co/Rejekts/project
 
 Just in case something else gets deleted here is a backup...:
 
+https://huggingface.co/PhoenixStormJr/RVC-Easy-GUI-BACKUP-ONLY
