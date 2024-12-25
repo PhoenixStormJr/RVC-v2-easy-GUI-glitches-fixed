@@ -1,6 +1,6 @@
 # RVC-v2-easyGUI-glitches-fixed
 
-RVC V2 glitches fixed. This is the exact same as Rejekts, but I fixed the glitches in his repository. It had many glitches that virtually made RVC-v2-easy-gui very broken and almost unusable. I'm not trying to infringe on copyright violations, just fix his glitches. Date of original: 4/20/24
+RVC V2 glitches fixed. This is the exact same as Rejekts, but I fixed the glitches in his repository. It had many glitches that virtually made RVC-v2-easy-gui very broken and almost unusable. I'm not trying to infringe on copyright violations, just fix his glitches. Date of original: 10/02/2024
 
 Mine here (If there are any issues, report them on the [Issues](https://github.com/PhoenixStormJr/RVC-v2-easy-GUI-glitches-fixed/issues) tab. I have completed it and there are no glitches as far as I can tell. I have also added a few features. Not extremely important though.):
 
