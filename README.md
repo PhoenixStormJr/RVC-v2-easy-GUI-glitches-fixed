@@ -12,7 +12,7 @@ Here is a backup made by [Hev832](https://huggingface.co/Hev832) with even MORE 
 
 originals here:
 
-(BROKEN) RVC v2 Rejekts colab link: https://colab.research.google.com/drive/1r4IRL0UA7JEoZ0ZK8PKfMyTIBHKpyhcw
+RVC v2 Rejekts colab link: https://colab.research.google.com/drive/1qfz5u2xBLyZp7vqzOAKZ3aJFjXZfHTuB
 
 Github: https://github.com/RejektsAI
 
