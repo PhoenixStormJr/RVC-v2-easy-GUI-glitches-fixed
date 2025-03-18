@@ -19,3 +19,7 @@ Huggingface: https://huggingface.co/Rejekts/project
 Just in case something else gets deleted here is a backup of the source code itself...:
 
 https://huggingface.co/PhoenixStormJr/RVC-Easy-GUI-BACKUP-ONLY
+
+# Noticed updates break the program
+
+I've noticed Google Drive keeps updating Python and other packages. This keeps breaking RVC and I keep having to install old packages. This is a problem with the installation cell, but the others are just fine. I'm working on fixes for this, but please note, because I am a college student, I can only work on my days off. Still though, comments and error reports are appreciated!
