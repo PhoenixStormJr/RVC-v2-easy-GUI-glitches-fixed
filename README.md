@@ -16,6 +16,10 @@ Github: https://github.com/RejektsAI
 
 Huggingface: https://huggingface.co/Rejekts/project
 
+Youtube: https://www.youtube.com/@Rejekts
+
+Youtube video: https://www.youtube.com/watch?v=3Wa5DsJAv3c
+
 Just in case something else gets deleted here is a backup of the source code itself...:
 
 https://huggingface.co/PhoenixStormJr/RVC-Easy-GUI-BACKUP-ONLY
