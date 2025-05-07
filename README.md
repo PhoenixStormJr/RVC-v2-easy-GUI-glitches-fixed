@@ -6,8 +6,6 @@ Mine here (If there are any issues, report them on the [Issues](https://github.c
 
 https://colab.research.google.com/github/PhoenixStormJr/RVC-v2-easy-GUI-glitches-fixed/blob/main/EasyGUI_fixed_glitches_%F0%9F%8E%AE_10_02_2024__7.ipynb
 
-Here is a backup made by [Hev832](https://huggingface.co/Hev832) with even MORE features. Might be a bit advanced though: https://colab.research.google.com/drive/1UiYHNiQO9abKxShA4cgV1gwqHrWvx3Ml
-
 originals here:
 
 RVC v2 Rejekts colab link: https://colab.research.google.com/drive/1qfz5u2xBLyZp7vqzOAKZ3aJFjXZfHTuB
