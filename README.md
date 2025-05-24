@@ -4,7 +4,7 @@ RVC V2 glitches fixed. This is the exact same as Rejekts, but I fixed the glitch
 
 Mine here (If there are any issues, report them on the [Issues](https://github.com/PhoenixStormJr/RVC-v2-easy-GUI-glitches-fixed/issues) tab. I have completed it and there are no glitches as far as I can tell. I have also added a few features. Not extremely important though.)
 
-OH! I now have created a MINIMALIST version! This is the minimal version, that runs a lot faster! Still working on it though...:
+OH! I now have created a MINIMALIST version! This is the minimal version, that runs a lot faster!:
 
 https://colab.research.google.com/github/PhoenixStormJr/RVC-v2-easy-GUI-glitches-fixed/blob/main/EasyGUI_minimal_install_%F0%9F%8E%AE_10_02_2024__8.ipynb
 
