@@ -33,3 +33,5 @@ https://huggingface.co/PhoenixStormJr/RVC-Easy-GUI-BACKUP-ONLY
 # Noticed updates break the program
 
 I've noticed Google Colab keeps updating Python and other packages. This keeps breaking RVC and I keep having to install old packages. This is a problem with the installation cell, but the others are just fine. I'm working on fixes for this, but please note, because I am a college student, I can only work on my days off. Still though, comments and error reports are appreciated!
+
+(Off topic, Jesus loves you, and died for your sins. Don't listen to corrupt Mega Churches with all these rules, Jesus said in Matthew 22:38-40: "This is the great and first commandment. And a second like unto it is this, Thou shalt love thy neighbor as thyself. On these two commandments hang all the law and the prophets." Meaning LOVE is the only commandment. Please join Jesus's TRUE family (not the evil Jesus of Mega Churches) and join his love today! Jesus loves you, God Bless! 😄)
