@@ -14,6 +14,8 @@ https://colab.research.google.com/github/PhoenixStormJr/RVC-v2-easy-GUI-glitches
 
 Here is a backup made by [Hev832](https://huggingface.co/Hev832) with even MORE features. Might be a bit advanced though: https://colab.research.google.com/drive/1UiYHNiQO9abKxShA4cgV1gwqHrWvx3Ml
 
+I created the minimalist version with [this](https://colab.research.google.com/github/PhoenixStormJr/ultra-fast-colab-setup-no-pip/blob/main/ultra_fast_colab_setup_no_pip.ipynb) colab notebook. Only for developers to use.
+
 # Prepare an RVC dataset:
 
 I also forked [Ultimate Vocal Remover](https://github.com/Eddycrack864/UVR5-NO-UI?tab=readme-ov-file) to help polish up a dataset! The thing is, Ultimate Vocal Remover has like... HUNDREDS of models, and nobody really has time to test them all. **I TESTED EVERY SINGLE ONE!!!** I have a pipeline of the BEST models to use for voice separation: 
