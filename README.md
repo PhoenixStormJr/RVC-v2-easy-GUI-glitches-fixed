@@ -10,7 +10,7 @@ https://colab.research.google.com/github/PhoenixStormJr/RVC-v2-easy-GUI-glitches
 
 But my original is still here:
 
-https://colab.research.google.com/github/PhoenixStormJr/RVC-v2-easy-GUI-glitches-fixed/blob/main/EasyGUI_fixed_glitches_%F0%9F%8E%AE_10_02_2024__7.ipynb
+https://colab.research.google.com/github/PhoenixStormJr/RVC-v2-easy-GUI-glitches-fixed/blob/main/EasyGUI_fixed_glitches_%F0%9F%8E%AE_10_02_2024__10.ipynb
 
 Here is a backup made by [Hev832](https://huggingface.co/Hev832) with even MORE features. Might be a bit advanced though: https://colab.research.google.com/drive/1UiYHNiQO9abKxShA4cgV1gwqHrWvx3Ml
 
