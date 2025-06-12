@@ -1,5 +1,5 @@
 # RVC-v2-easyGUI-glitches-fixed
-WOW! Google actually looks like they banned RVC FOR GOOD!!! Not even the terminal works anymore!!! But don't worry guys, I'm making an offline version that even works for CPU! (slower, but still works!) SCREW GOOGLE, I'MA TRAIN ON MY LAPTOP CPU FOR 3 DAYS!!!
+Alright, training offline is a no-go. one epoch takes over TWO HOURS! I don't have the computer power to do that. HOWEVER, Google Colab banned this repository... NOT RVC. Download it to your google drive, and run it directly in drive. NOT Github.
 
 RVC V2 glitches fixed. This is the exact same as Rejekts, but I fixed the glitches in his repository. It had many glitches that virtually made RVC-v2-easy-gui very broken and almost unusable. I'm not trying to infringe on copyright violations, just fix his glitches. Date of original: 10/02/2024
 
