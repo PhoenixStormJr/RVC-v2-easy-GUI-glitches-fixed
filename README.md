@@ -13,6 +13,10 @@ But my original is still here:
 
 https://colab.research.google.com/github/PhoenixStormJr/RVC-v2-easy-GUI-glitches-fixed/blob/main/EasyGUI_fixed_glitches_%F0%9F%8E%AE_10_02_2024__11.ipynb
 
+Inference Only (might be faster, less clutter):
+
+https://colab.research.google.com/github/PhoenixStormJr/RVC-v2-easy-GUI-glitches-fixed/blob/main/EasyGUI_Inference_Only_%F0%9F%8E%AE_10_02_2024__12.ipynb
+
 Here is a backup made by [Hev832](https://huggingface.co/Hev832) with even MORE features. Might be a bit advanced though: https://colab.research.google.com/drive/1UiYHNiQO9abKxShA4cgV1gwqHrWvx3Ml
 
 I created the minimalist version with [this](https://colab.research.google.com/github/PhoenixStormJr/ultra-fast-colab-setup-no-pip/blob/main/ultra_fast_colab_setup_no_pip.ipynb) colab notebook. Only for developers to use.
