@@ -11,7 +11,7 @@ https://colab.research.google.com/github/PhoenixStormJr/RVC-v2-easy-GUI-glitches
 
 But my original is still here:
 
-https://colab.research.google.com/github/PhoenixStormJr/RVC-v2-easy-GUI-glitches-fixed/blob/main/EasyGUI_fixed_glitches_%F0%9F%8E%AE_10_02_2024__11.ipynb
+https://colab.research.google.com/github/PhoenixStormJr/RVC-v2-easy-GUI-glitches-fixed/blob/main/EasyGUI_fixed_glitches_%F0%9F%8E%AE_10_02_2024__12.ipynb
 
 Inference Only (might be faster, less clutter):
 
