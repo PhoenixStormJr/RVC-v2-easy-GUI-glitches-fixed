@@ -29,7 +29,7 @@ I also forked [Ultimate Vocal Remover](https://github.com/Eddycrack864/UVR5-NO-U
 
 Here is my Google Colab notebook of a fork of UVR:
 
-https://colab.research.google.com/github/PhoenixStormJr/RVC-v2-easy-GUI-glitches-fixed/blob/main/UVR5_NO_UI_Prepare_RVC_dataset.ipynb
+https://colab.research.google.com/github/PhoenixStormJr/RVC-v2-easy-GUI-glitches-fixed/blob/main/UVR5_NO_UI_Prepare_RVC_dataset__2.ipynb
 
 # original works here:
 
