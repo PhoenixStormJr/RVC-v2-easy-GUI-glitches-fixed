@@ -7,7 +7,7 @@ Mine here (If there are any issues, report them on the [Issues](https://github.c
 
 OH! I now have created a MINIMALIST version! This is the minimal version, that runs a lot faster!:
 
-https://colab.research.google.com/github/PhoenixStormJr/RVC-v2-easy-GUI-glitches-fixed/blob/main/EasyGUI_minimal_install_%F0%9F%8E%AE_10_02_2024__12.ipynb
+https://colab.research.google.com/github/PhoenixStormJr/RVC-v2-easy-GUI-glitches-fixed/blob/main/EasyGUI_minimal_install_%F0%9F%8E%AE_10_02_2024__13.ipynb
 
 But my original is still here:
 
