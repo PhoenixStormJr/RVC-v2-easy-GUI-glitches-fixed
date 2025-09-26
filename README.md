@@ -27,6 +27,8 @@ I also forked [Ultimate Vocal Remover](https://github.com/Eddycrack864/UVR5-NO-U
 
 "MelBand Roformer | Vocals by Gabox" -> "MelBand Roformer | De-Reverb-Echo Fused by Sucial" -> "MelBand Roformer | Denoise-Debleed by Gabox" -> "MelBand Roformer | Vocals FV2 by Gabox" -> "kuielab_a_vocals.onnx" -> "kuielab_b_vocals.onnx" -> (Extreme model) "MelBand Roformer | Karaoke by Gabox" OR "UVR-MDX-NET_Crowd_HQ_1.onnx" -> (Extreme model) "MelBand Roformer | Aspiration Less Aggressive by Sucial"
 
+(I just tried this, and it turns out there's some sort of cap. If the audio is too long, it'll fail. I do not know the cap, but I know it's less than an hour)
+
 Here is my Google Colab notebook of a fork of UVR:
 
 https://colab.research.google.com/github/PhoenixStormJr/RVC-v2-easy-GUI-glitches-fixed/blob/main/UVR5_NO_UI_Prepare_RVC_dataset__4.ipynb
