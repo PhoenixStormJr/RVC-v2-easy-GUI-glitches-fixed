@@ -1,4 +1,6 @@
 # RVC-v2-easyGUI-glitches-fixed
+NOTE: ugh it broke AGAIN!!! Alright, I have a plan to make this work FOREVER. It'll take a while, but this will be my FINAL update (hopefully). I plan to also make an offline mod for the steam deck, no root required.
+
 Alright, training offline is a no-go. one epoch takes over TWO HOURS! I don't have the computer power to do that. HOWEVER, Google Colab banned this repository... NOT RVC. Download it to your google drive, and run it directly in drive. NOT Github.
 
 RVC V2 glitches fixed. This is the exact same as Rejekts, but I fixed the glitches in his repository. It had many glitches that virtually made RVC-v2-easy-gui very broken and almost unusable. I'm not trying to infringe on copyright violations, just fix his glitches. Date of original: 10/02/2024
