@@ -1,5 +1,4 @@
 # RVC-v2-easyGUI-glitches-fixed
-NOTE: ugh it broke AGAIN!!! Alright, I have a plan to make this work FOREVER. It'll take a while, but this will be my FINAL update (hopefully). I plan to also make an offline mod for the steam deck, no root required.
 
 Alright, training offline is a no-go. one epoch takes over TWO HOURS! I don't have the computer power to do that. HOWEVER, Google Colab banned this repository... NOT RVC. Download it to your google drive, and run it directly in drive. NOT Github.
 
@@ -13,7 +12,7 @@ https://colab.research.google.com/github/PhoenixStormJr/RVC-v2-easy-GUI-glitches
 
 But my original is still here:
 
-https://colab.research.google.com/github/PhoenixStormJr/RVC-v2-easy-GUI-glitches-fixed/blob/main/EasyGUI_fixed_glitches_%F0%9F%8E%AE_10_02_2024__12.ipynb
+https://colab.research.google.com/github/PhoenixStormJr/RVC-v2-easy-GUI-glitches-fixed/blob/main/EasyGUI_fixed_glitches_%F0%9F%8E%AE_10_02_2024__14.ipynb
 
 Inference Only (might be faster, less clutter):
 
@@ -51,7 +50,9 @@ Just in case something else gets deleted here is a backup of the source code its
 
 https://huggingface.co/PhoenixStormJr/RVC-Easy-GUI-BACKUP-ONLY
 
-# Noticed updates break the program
+# Changelog and notes
+
+In the 14th update, I just downgraded to python3.10 because I couldn't get python3.12 to work, and ran almost the entire program in the old python. Screw it.
 
 I've noticed Google Colab keeps updating Python and other packages. This keeps breaking RVC and I keep having to install old packages. This is a problem with the installation cell, but the others are just fine. I'm working on fixes for this, but please note, because I am a college student, I can only work on my days off. Still though, comments and error reports are appreciated!
 
